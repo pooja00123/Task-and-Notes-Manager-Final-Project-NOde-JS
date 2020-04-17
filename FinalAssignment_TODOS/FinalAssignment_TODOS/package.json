@@ -7,7 +7,7 @@
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Pooja",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
@@ -17,6 +17,7 @@
     "jquery": "^3.3.1",
     "popper.js": "^1.14.3"
   }, "engines" : {
-    "node":"^12.16.1"
+    "node":"^12.16.1",
+    "npm":"^6.13.4"
   }
 }
